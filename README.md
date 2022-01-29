@@ -8,7 +8,7 @@
 
 - 💜 Passionate about **typescript** and **web development**
 - 📚 Currently studying **fullstack** at [Step Academy](https://itstep.com.br/) and [Rocketseat](https://www.rocketseat.com.br/)
-- 🔭 Looking for **frontend** and **backend** projects
+- 🔭 Looking for **frontend** projects
 
 <br>
 
